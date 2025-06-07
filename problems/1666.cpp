@@ -46,9 +46,7 @@ int main() {
 	}
 
 	cout << count << endl;
-
 	for (auto &newroad: newroads) {
 		cout << newroad.first << " " << newroad.second << endl;
 	}
-
 }
